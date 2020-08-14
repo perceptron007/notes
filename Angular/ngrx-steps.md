@@ -1,6 +1,0 @@
-- Create Actions first
-- Create Reducers and Add your payload definition to the IAppState
-    - Give Initial State
-    - Return a new state combined with application state
-- Create an Effect for your Endpoint
-- 
