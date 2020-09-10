@@ -4,4 +4,14 @@
 
 ## Ludic Fallacy
 
+## Lindy Affect
+
 ## Rent Seeking
+
+## Proof of Work
+
+## DAI (Cryptocurrency)
+
+## Compoud (Cyptocurrency)
+
+## Filecoin

@@ -31,4 +31,3 @@
 </details>
 
 What is R3 Injector and where is it provided ?
-

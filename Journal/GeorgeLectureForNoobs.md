@@ -19,7 +19,7 @@ Learn to supress and dissassemble ego.
 Learn to see the probelm rather than the sympots. (Cure the problem rather than the Symptoms)
 
 ### What to learn 
-Learning: 
+**Learning**: 
 Learn concepts which help you gain power over nature. (Learn maths better first) then move to machine learning (Don't go for a tool or a framework but instead understand machine learning as a progress).
 
 Learn abstract concepts of a domain not the tools help to write and reproduce thing over those concepts.  (Learn reactive programming, learn functional programming, learn how DOM works) instead of just jumping and trying to learn Angular.
